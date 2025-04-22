@@ -4,13 +4,15 @@ BloodHound CE is a powerful tool for analyzing Active Directory (AD) environment
 This guide walks you through the installation and setup of BloodHound CE using Docker Compose on Kali Linux (running as a Virtual Machine).
 
 🔧 Prerequisites
+
 ✅ Kali Linux (up-to-date) running in a Virtual Machine
 
 ✅ Internet access
 
 ✅ A user account with sudo privileges
 
-🚀 Step-by-Step Installation
+🚀 Step-by-Step Installation:
+
 🐳 Step 1: Install Docker
 **Docker allows BloodHound CE to run as containerized services.**
 sudo apt update

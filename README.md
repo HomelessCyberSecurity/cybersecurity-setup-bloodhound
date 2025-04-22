@@ -79,7 +79,9 @@ You're in! You should now see the BloodHound CE dashboard.
 
 You can now:
 1.) Create or import datasets
+
 2.) Visualize Active Directory attack paths
+
 3.) Explore built-in queries and analytics
 
 🛠️ Troubleshooting Tips:
